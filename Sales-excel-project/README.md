@@ -6,4 +6,5 @@ Guidelines as per the project:
 
 The dataset used in this lab comes from the following source: https://www.kaggle.com/kyanyoga/sample-sales-data under a **Public Domain license**.
 
-We are using a modified subset of that dataset for the lab, so to follow the lab instructions successfully please use the dataset provided with the lab, rather than the dataset from the original source.
+We are using a modified subset of that dataset for the lab, so use the dataset provided with the lab, rather than the dataset from the original source. 
+( **sales_data_sample.csv** )
