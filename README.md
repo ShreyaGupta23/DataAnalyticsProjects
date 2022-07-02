@@ -1,2 +1,2 @@
 # DataAnalyticsProjects
-Please find my work related to data analysis here.
+Please find my work related to data analytics here.
