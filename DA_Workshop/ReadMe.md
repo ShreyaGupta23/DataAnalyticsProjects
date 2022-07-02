@@ -1,1 +1,1 @@
-
+As part of Jobaaj Learnings I attended the Data Analytics Workshop where skills like data cleaning,querying,visualising were covered using the tools like spreadsheets(Formatting,viewing and analysing teh data),SQL(Joins),Google notebooks(Python) and PowerBI(Visualising).
