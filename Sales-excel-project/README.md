@@ -9,7 +9,9 @@ The dataset used in this lab comes from the following source: https://www.kaggle
 We are using a modified subset of that dataset for the lab, so use the dataset provided with the lab, rather than the dataset from the original source. 
 ( **sales_data_sample.csv** )
 
-**sales_data_sample-PART_1.xlsx**
+The following tasks have been performed on **sales_data_sample.csv** :
+
+**1. sales_data_sample-PART_1.xlsx**
 
 #### Cleaning the data:
 1. Remove duplicates-Column A
@@ -23,7 +25,7 @@ We are using a modified subset of that dataset for the lab, so use the dataset p
 9. Merge column W and X and make Contact Name column using flash fill.
 10. Save the csv file to .xlsx file.
 
-**sales_data_sample_PART2_Start.xlsx**
+**2. sales_data_sample_PART2_Start.xlsx**
 
 #### Pivot Table Features
 1. Format as a table
