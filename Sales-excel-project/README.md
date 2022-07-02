@@ -11,7 +11,7 @@ We are using a modified subset of that dataset for the lab, so use the dataset p
 
 **sales_data_sample-PART_1.xlsx**
 
-###Cleaning the data:
+### Cleaning the data:
 1. Remove duplicates-Column A
 2. Remove blanks-Customer name
 3. Spell check
